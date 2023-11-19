@@ -1,0 +1,32 @@
+---
+title: 'Global Oil Consumption '
+author: "Muhammed Rahil CK"
+date: "2023-1-19"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+
+
+---
+
+Understanding Global Oil Consumption: A Comprehensive Case Study
+
+The global landscape is intricately connected by the intricate threads of energy consumption, with oil standing as one of the primary driving forces. As nations strive for economic development and technological advancement, the demand for oil has become a key determinant in shaping geopolitical dynamics and environmental sustainability. In this case study, we delve into the compelling realm of oil consumption by countries, seeking to unravel patterns, trends, and implications that underlie this critical aspect of the modern world.
+
+---
+
+
+```{r}
+installed.packages("tidyverse")
+library(tidyverse)
+
+```
+
+Data loading
+
+```{r}
+#oil_data <- read.csv(C:/Users/USER/Documents/GitHub/data-analytics-case-study/Oil consumption by country (Case Study}/oil-consumption-by-country.csv)
+```
+
